@@ -63,12 +63,12 @@ step32:
         title: 'Click "Add" and then "Save".'        
     5:
         image: /images/helloworld/hello-world-step-32-item-6.png 
-        title: 'Finally, click "Apply changes" in the dashboard editor to save the changes. Then you should enter edit mode again.'
+        title: 'Finally, click "Apply changes" in the dashboard editor to save the changes.'
 
 step33:
     0:
         image: /images/helloworld/hello-world-step-33-item-1.png 
-        title: 'Enter edit mode. Click on the "Add new widget" button. '
+        title: 'Enter the edit mode by clicking on the "pencil" icon at the bottom right of the screen. Click on the "Add new widget" button. '
     1:
         image: /images/helloworld/hello-world-step-33-item-2.png 
         title: 'Select the "Cards" widget bundle. Select the "Latest values" tab. Click on the header of the Entities widget. The "Add Widget" window will appear.'

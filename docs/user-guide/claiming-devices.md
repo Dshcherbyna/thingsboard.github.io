@@ -13,11 +13,11 @@ description: IoT device management using ThingsBoard claiming devices feature
 As a Tenant, I would like to pre-provision my devices via script or UI. My customers purchase devices directly from me or through the distributors.
 I would like my customers to claim their devices based on the QR code or similar technique, once they get physical access to the device.
 
-Once device is claimed, the customer becomes its owner and customer users may access device data as well as control the device.   
+Once a device is claimed, the customer becomes its owner and customer users may access device data as well as control the device.   
 
 ## Device Claiming scenarios
  
-ThingsBoard User can claim the device if they "know" the device Name and Secret Key. 
+ThingsBoard a User can claim the device if they "know" the device Name and Secret Key. 
 The Secret Key is optional, always has an expiration time, and may also change over time. 
 
 The Secret Key may be provisioned in two different ways. 
