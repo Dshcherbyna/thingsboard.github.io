@@ -98,6 +98,11 @@ connectors:
     name: CAN Connector
     type: can
     configuration: can.json
+    
+  -
+    name: ODBC Connector
+    type: odbc
+    configuration: odbc.json
 
   -
     name: Custom Serial Connector
