@@ -93,6 +93,15 @@ rpc-command:
     0:
         image: /images/lwm2m/rpc-command-ce.png
 
+read:
+    0:
+        image: /images/lwm2m/read-ce.png
+        title: 'Insert command **Read {"id":"/3/0/9/"}** where 3 is the model version, 0 is .'
+    1:
+        image: /images/lwm2m/read-1-ce.png
+        title: 'To add the new widget either click "Add new widget" sign in the middle of the screen, or the plus sign in the lower right corner of the screen to open the drop-up menu, where
+                you can click the paper icon that adds a widget.'
+
 ---
 
 {% include docs/reference/lwm2m-api.md %}
